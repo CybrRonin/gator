@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/CybrRonin/Gator/internal/config"
+	"github.com/CybrRonin/gator/internal/config"
 )
 
 func main() {

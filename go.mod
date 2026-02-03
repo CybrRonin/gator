@@ -1,3 +1,3 @@
-module github.com/CybrRonin/Gator
+module github.com/CybrRonin/gator
 
 go 1.25.5
